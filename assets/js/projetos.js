@@ -220,8 +220,7 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            O presente site no momento esta em fase de desenvolvimento formando uma equipe de 2 programadores (-Kaleesi e Richard Zamoner)
-            projetos.
+            O presente site no momento esta em fase de desenvolvimento formando uma equipe de 2 programadores (-Kaleesi e Richard Zamoner).
           </p>
           <p>HTML - CSS - JS - Laravel - SQL - Nitro - WSS </p>
         </div>
